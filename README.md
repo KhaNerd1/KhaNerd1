@@ -12,21 +12,7 @@
 
 I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arabia, passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing AI solutions that make a tangible impact.
 
-```python
-class KhaledAldowsary:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.location = "Riyadh, Saudi Arabia"
-        self.education = "BS in Computer Science (GPA: 4.48/5)"
-        self.interests = ["Machine Learning", "NLP", "Computer Vision", "RAG Systems"]
-        self.current_focus = "Building AI applications with LLMs and vector databases"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
 
-me = KhaledAldowsary()
-me.say_hi()
-```
 
 ## 💼 Professional Experience
 
@@ -102,22 +88,7 @@ Sentiment analysis on Arabic app reviews using scikit-learn and NLP techniques.
 - 🎯 **NVIDIA-Certified Associate: Generative AI LLMs** - NVIDIA
 - ☁️ **Microsoft Certified: Azure AI Fundamentals** - Microsoft
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaNerd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaNerd1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🌟 What I'm Currently Working On
-
-- 🔭 Building production-ready AI applications with LLMs and RAG
-- 🌱 Exploring advanced prompt engineering and LLM fine-tuning techniques
-- 👯 Looking to collaborate on AI/ML projects that solve meaningful problems
-- 💬 Ask me about **Machine Learning, NLP, Computer Vision, or RAG systems**
 
 ## 📫 Let's Connect!
 
@@ -125,7 +96,6 @@ I'm always excited to connect with fellow developers and AI enthusiasts. Whether
 
 - 📧 Email: k.aldowsari1@gmail.com
 - 💼 LinkedIn: [khaled-aldowsari-kh1](https://linkedin.com/in/khaled-aldowsari-kh1)
-- 🌐 Location: Riyadh, Saudi Arabia
 
 ---
 
