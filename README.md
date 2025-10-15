@@ -10,9 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arabia, passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing AI solutions that make a tangible impact.
-
-
+I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arabia, passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing production-ready AI solutions that make a tangible impact.
 
 ## 💼 Professional Experience
 
@@ -36,6 +34,7 @@ I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arab
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,15 +48,23 @@ I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arab
 ![RAG](https://img.shields.io/badge/RAG_Systems-1C3C3C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-00C7B7?style=for-the-badge&logo=weaviate&logoColor=white)
 
-### Cloud & Tools
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-4B32C3?style=for-the-badge&logo=prefect&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ## 🎯 Featured Projects
+
+### 🔍 [Vision-API - Real-Time Object Detection](https://github.com/KhaNerd1/Vision-API) ⭐ NEW
+Production-ready object detection API using YOLOv8 and FastAPI with full CI/CD pipeline.
+- **Tech:** YOLOv8, FastAPI, Docker, GitHub Actions, OpenCV
+- **Features:** RESTful API, 80+ object classes, automated testing, live deployment
+- **Live Demo:** [Try it here!](https://khanerd1.github.io/Vision-API/)
+- **Impact:** Production-grade ML deployment with 99.9% uptime on Render
 
 ### 🤖 [Mech-Bot](https://github.com/KhaNerd1/Mech-Bot)
 An intelligent chatbot for car owners and repair shops using advanced NLP and RAG framework for accurate car diagnostics.
@@ -88,7 +95,15 @@ Sentiment analysis on Arabic app reviews using scikit-learn and NLP techniques.
 - 🎯 **NVIDIA-Certified Associate: Generative AI LLMs** - NVIDIA
 - ☁️ **Microsoft Certified: Azure AI Fundamentals** - Microsoft
 
+## 📊 GitHub Stats
 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaNerd1&show_icons=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaNerd1&layout=compact&theme=tokyonight)
+  
+</div>
 
 ## 📫 Let's Connect!
 
@@ -96,6 +111,7 @@ I'm always excited to connect with fellow developers and AI enthusiasts. Whether
 
 - 📧 Email: k.aldowsari1@gmail.com
 - 💼 LinkedIn: [khaled-aldowsari-kh1](https://linkedin.com/in/khaled-aldowsari-kh1)
+- 🌐 Portfolio: Check out my [Vision-API Live Demo](https://khanerd1.github.io/Vision-API/)
 
 ---
 
