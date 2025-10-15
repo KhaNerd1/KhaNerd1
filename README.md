@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arabia, passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing production-ready AI solutions that make a tangible impact.
+I'm an **AI Engineer** and **Computer Science Graduate** passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing production-ready AI solutions that make a tangible impact.
 
 ## 💼 Professional Experience
 
