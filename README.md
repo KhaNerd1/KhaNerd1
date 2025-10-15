@@ -60,7 +60,7 @@ I'm an **AI Engineer** and **Computer Science Graduate** passionate about buildi
 ## 🎯 Featured Projects
 
 ### 🔍 [Vision-API - Real-Time Object Detection](https://github.com/KhaNerd1/Vision-API) ⭐ NEW
-Production-ready object detection API using YOLOv8 and FastAPI with full CI/CD pipeline.
+Production-ready object detection API using YOLOv8 and FastAPI.
 - **Tech:** YOLOv8, FastAPI, Docker, GitHub Actions, OpenCV
 - **Features:** RESTful API, 80+ object classes, automated testing, live deployment
 - **Live Demo:** [Try it here!](https://khanerd1.github.io/Vision-API/)
@@ -111,7 +111,6 @@ I'm always excited to connect with fellow developers and AI enthusiasts. Whether
 
 - 📧 Email: k.aldowsari1@gmail.com
 - 💼 LinkedIn: [khaled-aldowsari-kh1](https://linkedin.com/in/khaled-aldowsari-kh1)
-- 🌐 Portfolio: Check out my [Vision-API Live Demo](https://khanerd1.github.io/Vision-API/)
 
 ---
 
