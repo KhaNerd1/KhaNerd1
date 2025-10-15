@@ -10,8 +10,39 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** and **Computer Science Graduate** passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing AI solutions that make a tangible impact.
+I'm an **AI Engineer** and **Computer Science Graduate** from Riyadh, Saudi Arabia, passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Machine Learning**, **Deep Learning**, and **NLP**, I specialize in developing AI solutions that make a tangible impact.
 
+```python
+class KhaledAldowsary:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "Riyadh, Saudi Arabia"
+        self.education = "BS in Computer Science (GPA: 4.48/5)"
+        self.interests = ["Machine Learning", "NLP", "Computer Vision", "RAG Systems"]
+        self.current_focus = "Building AI applications with LLMs and vector databases"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together.")
+
+me = KhaledAldowsary()
+me.say_hi()
+```
+
+## 💼 Professional Experience
+
+**🤖 AI Intern @ Tamkeen Technologies** *(Jan 2025 - Jul 2025)*
+- Developing AI solutions using LLMs and Retrieval-Augmented Generation (RAG)
+- Working with vector databases for efficient AI-driven search and retrieval
+- Integrating AI automation tools to optimize workflows
+
+**🧠 AI Engineer Intern @ Saudi Data & AI Authority (SDAIA)** *(Sep 2024 - Dec 2024)*
+- Fine-tuned deep learning models in TensorFlow and deployed on Triton Inference Server
+- Implemented evaluation metrics for ASR models
+- Conducted data post-processing with Python for model training
+
+**📊 Data Analyst Trainee @ Human Resources Development Fund** *(Apr 2024 - May 2024)*
+- Performed data visualization and statistical analysis using Python
+- Conducted data cleaning and manipulation with Pandas
 
 ## 🛠️ Tech Stack
 
@@ -20,18 +51,22 @@ I'm an **AI Engineer** and **Computer Science Graduate** passionate about buildi
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### AI/ML Specialties
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=spacy&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-412991?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-1C3C3C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-00C7B7?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### Cloud & Tools
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-4B32C3?style=for-the-badge&logo=prefect&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -60,9 +95,6 @@ Sentiment analysis on Arabic app reviews using scikit-learn and NLP techniques.
 
 ## 📜 Certifications
 
-<details>
-<summary>Click to expand</summary>
-
 - 🎓 **Deep Learning Nanodegree** - Udacity
 - 🤖 **Generative AI based on LLAMA** - Tuwaiq Academy
 - 📊 **MCIT Jr Data Scientist** - INE
@@ -70,8 +102,22 @@ Sentiment analysis on Arabic app reviews using scikit-learn and NLP techniques.
 - 🎯 **NVIDIA-Certified Associate: Generative AI LLMs** - NVIDIA
 - ☁️ **Microsoft Certified: Azure AI Fundamentals** - Microsoft
 
-</details>
+## 📊 GitHub Stats
 
+<div align="center">
+  
+  ![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaNerd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaNerd1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌟 What I'm Currently Working On
+
+- 🔭 Building production-ready AI applications with LLMs and RAG
+- 🌱 Exploring advanced prompt engineering and LLM fine-tuning techniques
+- 👯 Looking to collaborate on AI/ML projects that solve meaningful problems
+- 💬 Ask me about **Machine Learning, NLP, Computer Vision, or RAG systems**
 
 ## 📫 Let's Connect!
 
